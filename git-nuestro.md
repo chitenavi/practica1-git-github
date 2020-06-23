@@ -1,4 +1,4 @@
-Git nuestro
+# Git nuestro. Versículo 0.1
 
 _Git_ nuestro que estas en los repos
 Comprimidos sean tus _commits_
